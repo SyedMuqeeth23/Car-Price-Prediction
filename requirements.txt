@@ -1,0 +1,6 @@
+# requirements.txt for Car Price Prediction project
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
